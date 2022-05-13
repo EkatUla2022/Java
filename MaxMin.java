@@ -9,5 +9,6 @@ public class MaxMin {
         Double db = 16.6;
         System.out.println(Byte.MAX_VALUE);
         System.out.println(Byte.MIN_VALUE);
+        System.out.println("");
     }
 }
